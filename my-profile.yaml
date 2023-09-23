@@ -1,8 +1,8 @@
 version: 2023-09
-givenName: Alice
-familyName: Cryptography
+givenName: Alen
+familyName: Horvat
 profilePhotoPath: img/profile.jpg
-bio: My super bio!
-address: Wonderland
+bio: Solving problems
+address: Ljubljana, Slovenia
 projects:
   - https://github.com/alenhorvat/git-recognise
